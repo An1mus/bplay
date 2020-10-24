@@ -12,6 +12,12 @@ const CHANNELS = [
     {name: 'Наш', url: 'https://www.youtube.com/c/%D0%A2%D0%B5%D0%BB%D0%B5%D0%BA%D0%B0%D0%BD%D0%B0%D0%BB%D0%9D%D0%90%D0%A8/videos', id: 'ТелеканалНАШ'}
 ]
 
+// прямой
+// эспрессо
+// 5ый канал
+// 112
+// ictv
+
 const formateUrl = (channelId: string) => {
     return `https://www.googleapis.com/youtube/v3/search?key=${YOUTUBE_API_KEY_TEST}&channelId=${channelId}`;
 }
