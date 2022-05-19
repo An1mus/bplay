@@ -1,0 +1,119 @@
+{
+    "contracts": [
+        {
+            "customer": "http://trdemo-client.trdemo",
+            "customer_service_id": "http://trdemo-client.trdemo",
+            "performance": {
+                "avg_rt": 0,
+                "err_r": 0,
+                "hit_r": 0.14804739378425102
+            },
+            "provider": "http://trdemo-flights.trdemo"
+        },
+        {
+            "customer": "http://trdemo-client.trdemo",
+            "customer_service_id": "http://trdemo-client.trdemo",
+            "performance": {
+                "avg_rt": 0,
+                "err_r": 0,
+                "hit_r": 0.2975275216064487
+            },
+            "provider": "http://trdemo-shoppingcart.trdemo"
+        },
+        {
+            "customer": "http://trdemo-client.trdemo",
+            "customer_service_id": "http://trdemo-client.trdemo",
+            "performance": {
+                "avg_rt": 0,
+                "err_r": 0,
+                "hit_r": 0.48543016106433085
+            },
+            "provider": "http://trdemo-users.trdemo"
+        },
+        {
+            "customer": "http://unresolved_source",
+            "customer_service_id": "http://unresolved_source",
+            "performance": {
+                "avg_rt": 999,
+                "err_r": 0,
+                "hit_r": 9.194033962169932e-9
+            },
+            "provider": "http://trdemo-client.trdemo"
+        },
+        {
+            "customer": "(clients)",
+            "customer_service_id": "(clients)",
+            "provider": "http://trdemo-client.trdemo"
+        }
+    ],
+    "logicalContracts": [],
+    "services": [
+        {
+            "hostname": "http://trdemo-users.trdemo",
+            "image": null,
+            "label": "http://trdemo-users.trdemo",
+            "performance": {
+                "avg_rt": 0,
+                "err_r": 0,
+                "hit_r": 0.48543016106433085
+            },
+            "serviceId": "http://trdemo-users.trdemo",
+            "targetKey": "TARGET_TRDEMO_USERS_TRDEMO",
+            "type": "PROVIDER"
+        },
+        {
+            "hostname": "http://trdemo-shoppingcart.trdemo",
+            "image": null,
+            "label": "http://trdemo-shoppingcart.trdemo",
+            "performance": {
+                "avg_rt": 0,
+                "err_r": 0,
+                "hit_r": 0.2975275216064487
+            },
+            "serviceId": "http://trdemo-shoppingcart.trdemo",
+            "targetKey": "TARGET_TRDEMO_SHOPPINGCART_TRDEMO",
+            "type": "PROVIDER"
+        },
+        {
+            "hostname": "kafka://kafka",
+            "image": null,
+            "label": "kafka://kafka",
+            "performance": {
+                "avg_rt": 0,
+                "err_r": 0,
+                "hit_r": 0.22946651504066287
+            },
+            "serviceId": "kafka://kafka",
+            "targetKey": "TARGET_KAFKA",
+            "type": "PROVIDER"
+        },
+        {
+            "hostname": "http://trdemo-flights.trdemo",
+            "image": null,
+            "label": "http://trdemo-flights.trdemo",
+            "performance": {
+                "avg_rt": 0,
+                "err_r": 0,
+                "hit_r": 0.14804739378425102
+            },
+            "serviceId": "http://trdemo-flights.trdemo",
+            "targetKey": "TARGET_TRDEMO_FLIGHTS_TRDEMO",
+            "type": "PROVIDER"
+        },
+        {
+            "hostname": "http://trdemo-client.trdemo",
+            "image": null,
+            "label": "http://trdemo-client.trdemo",
+            "performance": {
+                "avg_rt": 999,
+                "err_r": 0,
+                "hit_r": 9.194033962169932e-9
+            },
+            "serviceId": "http://trdemo-client.trdemo",
+            "targetKey": "TARGET_TRDEMO_CLIENT_TRDEMO",
+            "type": "PROVIDER"
+        }
+    ],
+    "kafkaContracts": [],
+    "outgoingContracts": []
+}

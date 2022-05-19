@@ -1,0 +1,1838 @@
+{
+    "contracts": [
+        {
+            "customer": "Web Browser",
+            "customer_service_id": null,
+            "performance": {
+                "avg_rt": 11,
+                "err_r": 0.01486955683689734,
+                "hit_r": 0.02973911367379468
+            },
+            "provider": "https://adobeid-na1.services.adobe.com"
+        },
+        {
+            "customer": "Web Browser",
+            "customer_service_id": null,
+            "performance": {
+                "avg_rt": 5,
+                "err_r": 0,
+                "hit_r": 0.015573534323953558
+            },
+            "provider": "https://api.hubspot.com"
+        },
+        {
+            "customer": "Web Browser",
+            "customer_service_id": null,
+            "performance": {
+                "avg_rt": 10,
+                "err_r": 0,
+                "hit_r": 0.05947822734758936
+            },
+            "provider": "https://auth.services.adobe.com"
+        },
+        {
+            "customer": "Web Browser",
+            "customer_service_id": null,
+            "performance": {
+                "avg_rt": 25,
+                "err_r": 0,
+                "hit_r": 0.15373577898209256
+            },
+            "provider": "https://aws.amazon.com"
+        },
+        {
+            "customer": "Web Browser",
+            "customer_service_id": null,
+            "performance": {
+                "avg_rt": 2,
+                "err_r": 0,
+                "hit_r": 0.021312418636376528
+            },
+            "provider": "https://booking.com"
+        },
+        {
+            "customer": "Web Browser",
+            "customer_service_id": null,
+            "performance": {
+                "avg_rt": 200,
+                "err_r": 0,
+                "hit_r": 1.2866514405758436
+            },
+            "provider": "https://booking.kayak.com"
+        },
+        {
+            "customer": "Web Browser",
+            "customer_service_id": null,
+            "performance": {
+                "avg_rt": 22,
+                "err_r": 0,
+                "hit_r": 0.04978123907516601
+            },
+            "provider": "https://browser-http-intake.logs.datadoghq.com"
+        },
+        {
+            "customer": "Web Browser",
+            "customer_service_id": null,
+            "performance": {
+                "avg_rt": 1,
+                "err_r": 0,
+                "hit_r": 0.01357367789249394
+            },
+            "provider": "https://clickserve.dartsearch.net"
+        },
+        {
+            "customer": "Web Browser",
+            "customer_service_id": null,
+            "performance": {
+                "avg_rt": 7,
+                "err_r": 0,
+                "hit_r": 0.015573534323953558
+            },
+            "provider": "https://coderbyte.com"
+        },
+        {
+            "customer": "Web Browser",
+            "customer_service_id": null,
+            "performance": {
+                "avg_rt": 3,
+                "err_r": 0,
+                "hit_r": 0.015573534323953558
+            },
+            "provider": "https://csp.medium.com"
+        },
+        {
+            "customer": "Web Browser",
+            "customer_service_id": null,
+            "performance": {
+                "avg_rt": 15,
+                "err_r": 0,
+                "hit_r": 0.08662790070258211
+            },
+            "provider": "https://discord.com"
+        },
+        {
+            "customer": "Web Browser",
+            "customer_service_id": null,
+            "performance": {
+                "avg_rt": 17,
+                "err_r": 0,
+                "hit_r": 0.07895492408911234
+            },
+            "provider": "https://dribbble.com"
+        },
+        {
+            "customer": "Web Browser",
+            "customer_service_id": null,
+            "performance": {
+                "avg_rt": 0,
+                "err_r": 0,
+                "hit_r": 0.010253045147593523
+            },
+            "provider": "https://ds-aksb-a.akamaihd.net"
+        },
+        {
+            "customer": "Web Browser",
+            "customer_service_id": null,
+            "performance": {
+                "avg_rt": 104,
+                "err_r": 0,
+                "hit_r": 0.3229974167281868
+            },
+            "provider": "https://e.metarouter.io"
+        },
+        {
+            "customer": "Web Browser",
+            "customer_service_id": null,
+            "performance": {
+                "avg_rt": 10,
+                "err_r": 0,
+                "hit_r": 0.09332973394933093
+            },
+            "provider": "https://en.wikipedia.org"
+        },
+        {
+            "customer": "Web Browser",
+            "customer_service_id": null,
+            "performance": {
+                "avg_rt": 244,
+                "err_r": 0,
+                "hit_r": 1.1273957125353455
+            },
+            "provider": "https://fls-na.amazon.com"
+        },
+        {
+            "customer": "Web Browser",
+            "customer_service_id": null,
+            "performance": {
+                "avg_rt": 3,
+                "err_r": 0,
+                "hit_r": 0.015573534323953558
+            },
+            "provider": "https://forms.hubspot.com"
+        },
+        {
+            "customer": "Web Browser",
+            "customer_service_id": null,
+            "performance": {
+                "avg_rt": 21,
+                "err_r": 0,
+                "hit_r": 0.02604175708288054
+            },
+            "provider": "https://gateway.reddit.com"
+        },
+        {
+            "customer": "Web Browser",
+            "customer_service_id": null,
+            "performance": {
+                "avg_rt": 31,
+                "err_r": 0,
+                "hit_r": 0.036458459916032755
+            },
+            "provider": "https://gql.reddit.com"
+        },
+        {
+            "customer": "Web Browser",
+            "customer_service_id": null,
+            "performance": {
+                "avg_rt": 6,
+                "err_r": 0,
+                "hit_r": 0.04850817159751362
+            },
+            "provider": "https://help.netflix.com"
+        },
+        {
+            "customer": "Web Browser",
+            "customer_service_id": null,
+            "performance": {
+                "avg_rt": 3,
+                "err_r": 0,
+                "hit_r": 0.00743477841844867
+            },
+            "provider": "https://ims-na1.adobelogin.com"
+        },
+        {
+            "customer": "Web Browser",
+            "customer_service_id": null,
+            "performance": {
+                "avg_rt": 51,
+                "err_r": 0,
+                "hit_r": 0.12458827459162847
+            },
+            "provider": "https://jeff-jackson.medium.com"
+        },
+        {
+            "customer": "Web Browser",
+            "customer_service_id": null,
+            "performance": {
+                "avg_rt": 64,
+                "err_r": 0,
+                "hit_r": 0.17146871237001626
+            },
+            "provider": "https://lightstep.medium.systems"
+        },
+        {
+            "customer": "Web Browser",
+            "customer_service_id": null,
+            "performance": {
+                "avg_rt": 116,
+                "err_r": 0,
+                "hit_r": 0.2931561856648665
+            },
+            "provider": "https://medium.com"
+        },
+        {
+            "customer": "Web Browser",
+            "customer_service_id": null,
+            "performance": {
+                "avg_rt": 5,
+                "err_r": 0,
+                "hit_r": 0.022208600945845848
+            },
+            "provider": "https://proxy-v4.cms.hbo.com"
+        },
+        {
+            "customer": "Web Browser",
+            "customer_service_id": null,
+            "performance": {
+                "avg_rt": 0,
+                "err_r": 0,
+                "hit_r": 0.008641809937397799
+            },
+            "provider": "https://r1---sn-jvgcpo503g-3c2e.googlevideo.com"
+        },
+        {
+            "customer": "Web Browser",
+            "customer_service_id": null,
+            "performance": {
+                "avg_rt": 0,
+                "err_r": 0,
+                "hit_r": 0.008641809937397799
+            },
+            "provider": "https://r2---sn-jvgcpo503g-3c2e.googlevideo.com"
+        },
+        {
+            "customer": "Web Browser",
+            "customer_service_id": null,
+            "performance": {
+                "avg_rt": 7,
+                "err_r": 0,
+                "hit_r": 0.05997990672180998
+            },
+            "provider": "https://reactjs.org"
+        },
+        {
+            "customer": "Web Browser",
+            "customer_service_id": null,
+            "performance": {
+                "avg_rt": 52,
+                "err_r": 0,
+                "hit_r": 0.20498103864279008
+            },
+            "provider": "https://s0.awsstatic.com"
+        },
+        {
+            "customer": "Web Browser",
+            "customer_service_id": null,
+            "performance": {
+                "avg_rt": 2,
+                "err_r": 0,
+                "hit_r": 0.03759356927478722
+            },
+            "provider": "https://sb.scorecardresearch.com"
+        },
+        {
+            "customer": "Web Browser",
+            "customer_service_id": null,
+            "performance": {
+                "avg_rt": 1,
+                "err_r": 0,
+                "hit_r": 0.010253045147593523
+            },
+            "provider": "https://siteintercept.qualtrics.com"
+        },
+        {
+            "customer": "Web Browser",
+            "customer_service_id": null,
+            "performance": {
+                "avg_rt": 3,
+                "err_r": 0,
+                "hit_r": 0.010253045147593523
+            },
+            "provider": "https://sonygs.112.2o7.net"
+        },
+        {
+            "customer": "Web Browser",
+            "customer_service_id": null,
+            "performance": {
+                "avg_rt": 2,
+                "err_r": 0,
+                "hit_r": 0.010253045147593523
+            },
+            "provider": "https://square.sony.com"
+        },
+        {
+            "customer": "Web Browser",
+            "customer_service_id": null,
+            "performance": {
+                "avg_rt": 3,
+                "err_r": 0,
+                "hit_r": 0.01486955683689734
+            },
+            "provider": "https://sstats.adobe.com"
+        },
+        {
+            "customer": "Web Browser",
+            "customer_service_id": null,
+            "performance": {
+                "avg_rt": 6,
+                "err_r": 0,
+                "hit_r": 0.04446222931331954
+            },
+            "provider": "https://stackoverflow.com"
+        },
+        {
+            "customer": "Web Browser",
+            "customer_service_id": null,
+            "performance": {
+                "avg_rt": 9,
+                "err_r": 0,
+                "hit_r": 0.022569522805163136
+            },
+            "provider": "https://strapi.reddit.com"
+        },
+        {
+            "customer": "Web Browser",
+            "customer_service_id": null,
+            "performance": {
+                "avg_rt": 2,
+                "err_r": 0,
+                "hit_r": 0.018893894725891144
+            },
+            "provider": "https://tag.1rx.io"
+        },
+        {
+            "customer": "Web Browser",
+            "customer_service_id": null,
+            "performance": {
+                "avg_rt": 23,
+                "err_r": 0,
+                "hit_r": 0.08439268359421423
+            },
+            "provider": "https://telemetry.api.wmcdp.io"
+        },
+        {
+            "customer": "Web Browser",
+            "customer_service_id": null,
+            "performance": {
+                "avg_rt": 11,
+                "err_r": 0,
+                "hit_r": 0.010253045147593523
+            },
+            "provider": "https://tr.api.mp.marsflag.com"
+        },
+        {
+            "customer": "Web Browser",
+            "customer_service_id": null,
+            "performance": {
+                "avg_rt": 0,
+                "err_r": 0,
+                "hit_r": 0.015573534323953558
+            },
+            "provider": "https://unpkg.com"
+        },
+        {
+            "customer": "Web Browser",
+            "customer_service_id": null,
+            "performance": {
+                "avg_rt": 2,
+                "err_r": 0,
+                "hit_r": 0.006944468555434811
+            },
+            "provider": "https://watch.redd.it"
+        },
+        {
+            "customer": "Web Browser",
+            "customer_service_id": null,
+            "performance": {
+                "avg_rt": 98,
+                "err_r": 0,
+                "hit_r": 0.36430414250398485
+            },
+            "provider": "https://www.behance.net"
+        },
+        {
+            "customer": "Web Browser",
+            "customer_service_id": null,
+            "performance": {
+                "avg_rt": 37,
+                "err_r": 0,
+                "hit_r": 0.14918693045463569
+            },
+            "provider": "https://www.booking.com"
+        },
+        {
+            "customer": "Web Browser",
+            "customer_service_id": null,
+            "performance": {
+                "avg_rt": 5,
+                "err_r": 0,
+                "hit_r": 0.021656975175645528
+            },
+            "provider": "https://www.cyberpunk.net"
+        },
+        {
+            "customer": "Web Browser",
+            "customer_service_id": null,
+            "performance": {
+                "avg_rt": 1,
+                "err_r": 0,
+                "hit_r": 0.014844503802845641
+            },
+            "provider": "https://www.googleadservices.com"
+        },
+        {
+            "customer": "Web Browser",
+            "customer_service_id": null,
+            "performance": {
+                "avg_rt": 36,
+                "err_r": 0,
+                "hit_r": 0.08883440378338339
+            },
+            "provider": "https://www.hbo.com"
+        },
+        {
+            "customer": "Web Browser",
+            "customer_service_id": null,
+            "performance": {
+                "avg_rt": 13,
+                "err_r": 0,
+                "hit_r": 0.09746734842294122
+            },
+            "provider": "https://www.netflix.com"
+        },
+        {
+            "customer": "Web Browser",
+            "customer_service_id": null,
+            "performance": {
+                "avg_rt": 18,
+                "err_r": 0,
+                "hit_r": 0.06944468555434812
+            },
+            "provider": "https://www.reddit.com"
+        },
+        {
+            "customer": "Web Browser",
+            "customer_service_id": null,
+            "performance": {
+                "avg_rt": 9,
+                "err_r": 0,
+                "hit_r": 0.03075913544278057
+            },
+            "provider": "https://www.sony.com"
+        },
+        {
+            "customer": "Web Browser",
+            "customer_service_id": null,
+            "performance": {
+                "avg_rt": 11,
+                "err_r": 0,
+                "hit_r": 0.06151827088556114
+            },
+            "provider": "https://www.sony.net"
+        },
+        {
+            "customer": "Web Browser",
+            "customer_service_id": null,
+            "performance": {
+                "avg_rt": 4,
+                "err_r": 0,
+                "hit_r": 0.03075913544278057
+            },
+            "provider": "https://www.sony.ua"
+        },
+        {
+            "customer": "Web Browser",
+            "customer_service_id": null,
+            "performance": {
+                "avg_rt": 4,
+                "err_r": 0,
+                "hit_r": 0.004860692552571283
+            },
+            "provider": "https://www.webdesignerdepot.com"
+        },
+        {
+            "customer": "Web Browser",
+            "customer_service_id": null,
+            "performance": {
+                "avg_rt": 17,
+                "err_r": 0,
+                "hit_r": 0.18454873282648837
+            },
+            "provider": "https://www.youtube.com"
+        }
+    ],
+    "logicalContracts": [
+        {
+            "customer": "https://adobeid-na1.services.adobe.com",
+            "customer_service_id": "https://adobeid-na1.services.adobe.com",
+            "performance": {
+                "avg_rt": 0,
+                "err_r": 0,
+                "hit_r": 0
+            },
+            "provider": "https://www.behance.net"
+        },
+        {
+            "customer": "https://api.hubspot.com",
+            "customer_service_id": "https://api.hubspot.com",
+            "performance": {
+                "avg_rt": 0,
+                "err_r": 0,
+                "hit_r": 0
+            },
+            "provider": "https://www.googleadservices.com"
+        },
+        {
+            "customer": "https://api.hubspot.com",
+            "customer_service_id": "https://api.hubspot.com",
+            "performance": {
+                "avg_rt": 0,
+                "err_r": 0,
+                "hit_r": 0
+            },
+            "provider": "https://coderbyte.com"
+        },
+        {
+            "customer": "https://auth.services.adobe.com",
+            "customer_service_id": "https://auth.services.adobe.com",
+            "performance": {
+                "avg_rt": 0,
+                "err_r": 0,
+                "hit_r": 0
+            },
+            "provider": "https://www.behance.net"
+        },
+        {
+            "customer": "https://auth.services.adobe.com",
+            "customer_service_id": "https://auth.services.adobe.com",
+            "performance": {
+                "avg_rt": 0,
+                "err_r": 0,
+                "hit_r": 0
+            },
+            "provider": "https://ims-na1.adobelogin.com"
+        },
+        {
+            "customer": "https://booking.com",
+            "customer_service_id": "https://booking.com",
+            "performance": {
+                "avg_rt": 0,
+                "err_r": 0,
+                "hit_r": 0
+            },
+            "provider": "https://www.booking.com"
+        },
+        {
+            "customer": "https://booking.kayak.com",
+            "customer_service_id": "https://booking.kayak.com",
+            "performance": {
+                "avg_rt": 0,
+                "err_r": 0,
+                "hit_r": 0
+            },
+            "provider": "https://www.booking.com"
+        },
+        {
+            "customer": "https://booking.kayak.com",
+            "customer_service_id": "https://booking.kayak.com",
+            "performance": {
+                "avg_rt": 0,
+                "err_r": 0,
+                "hit_r": 0
+            },
+            "provider": "https://booking.com"
+        },
+        {
+            "customer": "https://browser-http-intake.logs.datadoghq.com",
+            "customer_service_id": "https://browser-http-intake.logs.datadoghq.com",
+            "performance": {
+                "avg_rt": 0,
+                "err_r": 0,
+                "hit_r": 0
+            },
+            "provider": "https://medium.com"
+        },
+        {
+            "customer": "https://clickserve.dartsearch.net",
+            "customer_service_id": "https://clickserve.dartsearch.net",
+            "performance": {
+                "avg_rt": 0,
+                "err_r": 0,
+                "hit_r": 0
+            },
+            "provider": "https://www.googleadservices.com"
+        },
+        {
+            "customer": "https://coderbyte.com",
+            "customer_service_id": "https://coderbyte.com",
+            "performance": {
+                "avg_rt": 0,
+                "err_r": 0,
+                "hit_r": 0
+            },
+            "provider": "https://www.googleadservices.com"
+        },
+        {
+            "customer": "https://csp.medium.com",
+            "customer_service_id": "https://csp.medium.com",
+            "performance": {
+                "avg_rt": 0,
+                "err_r": 0,
+                "hit_r": 0
+            },
+            "provider": "https://medium.com"
+        },
+        {
+            "customer": "https://dribbble.com",
+            "customer_service_id": "https://dribbble.com",
+            "performance": {
+                "avg_rt": 0,
+                "err_r": 0,
+                "hit_r": 0
+            },
+            "provider": "https://www.behance.net"
+        },
+        {
+            "customer": "https://ds-aksb-a.akamaihd.net",
+            "customer_service_id": "https://ds-aksb-a.akamaihd.net",
+            "performance": {
+                "avg_rt": 0,
+                "err_r": 0,
+                "hit_r": 0
+            },
+            "provider": "https://www.sony.com"
+        },
+        {
+            "customer": "https://e.metarouter.io",
+            "customer_service_id": "https://e.metarouter.io",
+            "performance": {
+                "avg_rt": 0,
+                "err_r": 0,
+                "hit_r": 0
+            },
+            "provider": "https://dribbble.com"
+        },
+        {
+            "customer": "https://fls-na.amazon.com",
+            "customer_service_id": "https://fls-na.amazon.com",
+            "performance": {
+                "avg_rt": 0,
+                "err_r": 0,
+                "hit_r": 0
+            },
+            "provider": "https://aws.amazon.com"
+        },
+        {
+            "customer": "https://fls-na.amazon.com",
+            "customer_service_id": "https://fls-na.amazon.com",
+            "performance": {
+                "avg_rt": 0,
+                "err_r": 0,
+                "hit_r": 0
+            },
+            "provider": "https://en.wikipedia.org"
+        },
+        {
+            "customer": "https://forms.hubspot.com",
+            "customer_service_id": "https://forms.hubspot.com",
+            "performance": {
+                "avg_rt": 0,
+                "err_r": 0,
+                "hit_r": 0
+            },
+            "provider": "https://www.googleadservices.com"
+        },
+        {
+            "customer": "https://forms.hubspot.com",
+            "customer_service_id": "https://forms.hubspot.com",
+            "performance": {
+                "avg_rt": 0,
+                "err_r": 0,
+                "hit_r": 0
+            },
+            "provider": "https://coderbyte.com"
+        },
+        {
+            "customer": "https://gateway.reddit.com",
+            "customer_service_id": "https://gateway.reddit.com",
+            "performance": {
+                "avg_rt": 0,
+                "err_r": 0,
+                "hit_r": 0
+            },
+            "provider": "https://www.reddit.com"
+        },
+        {
+            "customer": "https://gateway.reddit.com",
+            "customer_service_id": "https://gateway.reddit.com",
+            "performance": {
+                "avg_rt": 0,
+                "err_r": 0,
+                "hit_r": 0
+            },
+            "provider": "https://strapi.reddit.com"
+        },
+        {
+            "customer": "https://gql.reddit.com",
+            "customer_service_id": "https://gql.reddit.com",
+            "performance": {
+                "avg_rt": 0,
+                "err_r": 0,
+                "hit_r": 0
+            },
+            "provider": "https://www.reddit.com"
+        },
+        {
+            "customer": "https://gql.reddit.com",
+            "customer_service_id": "https://gql.reddit.com",
+            "performance": {
+                "avg_rt": 0,
+                "err_r": 0,
+                "hit_r": 0
+            },
+            "provider": "https://gateway.reddit.com"
+        },
+        {
+            "customer": "https://gql.reddit.com",
+            "customer_service_id": "https://gql.reddit.com",
+            "performance": {
+                "avg_rt": 0,
+                "err_r": 0,
+                "hit_r": 0
+            },
+            "provider": "https://strapi.reddit.com"
+        },
+        {
+            "customer": "https://help.netflix.com",
+            "customer_service_id": "https://help.netflix.com",
+            "performance": {
+                "avg_rt": 0,
+                "err_r": 0,
+                "hit_r": 0
+            },
+            "provider": "https://www.netflix.com"
+        },
+        {
+            "customer": "https://ims-na1.adobelogin.com",
+            "customer_service_id": "https://ims-na1.adobelogin.com",
+            "performance": {
+                "avg_rt": 0,
+                "err_r": 0,
+                "hit_r": 0
+            },
+            "provider": "https://www.behance.net"
+        },
+        {
+            "customer": "https://jeff-jackson.medium.com",
+            "customer_service_id": "https://jeff-jackson.medium.com",
+            "performance": {
+                "avg_rt": 0,
+                "err_r": 0,
+                "hit_r": 0
+            },
+            "provider": "https://medium.com"
+        },
+        {
+            "customer": "https://lightstep.medium.systems",
+            "customer_service_id": "https://lightstep.medium.systems",
+            "performance": {
+                "avg_rt": 0,
+                "err_r": 0,
+                "hit_r": 0
+            },
+            "provider": "https://medium.com"
+        },
+        {
+            "customer": "https://lightstep.medium.systems",
+            "customer_service_id": "https://lightstep.medium.systems",
+            "performance": {
+                "avg_rt": 0,
+                "err_r": 0,
+                "hit_r": 0
+            },
+            "provider": "https://jeff-jackson.medium.com"
+        },
+        {
+            "customer": "https://lightstep.medium.systems",
+            "customer_service_id": "https://lightstep.medium.systems",
+            "performance": {
+                "avg_rt": 0,
+                "err_r": 0,
+                "hit_r": 0
+            },
+            "provider": "https://forms.hubspot.com"
+        },
+        {
+            "customer": "https://medium.com",
+            "customer_service_id": "https://medium.com",
+            "performance": {
+                "avg_rt": 0,
+                "err_r": 0,
+                "hit_r": 0
+            },
+            "provider": "https://forms.hubspot.com"
+        },
+        {
+            "customer": "https://proxy-v4.cms.hbo.com",
+            "customer_service_id": "https://proxy-v4.cms.hbo.com",
+            "performance": {
+                "avg_rt": 0,
+                "err_r": 0,
+                "hit_r": 0
+            },
+            "provider": "https://www.hbo.com"
+        },
+        {
+            "customer": "https://r1---sn-jvgcpo503g-3c2e.googlevideo.com",
+            "customer_service_id": "https://r1---sn-jvgcpo503g-3c2e.googlevideo.com",
+            "performance": {
+                "avg_rt": 0,
+                "err_r": 0,
+                "hit_r": 0
+            },
+            "provider": "https://www.youtube.com"
+        },
+        {
+            "customer": "https://r2---sn-jvgcpo503g-3c2e.googlevideo.com",
+            "customer_service_id": "https://r2---sn-jvgcpo503g-3c2e.googlevideo.com",
+            "performance": {
+                "avg_rt": 0,
+                "err_r": 0,
+                "hit_r": 0
+            },
+            "provider": "https://www.youtube.com"
+        },
+        {
+            "customer": "https://s0.awsstatic.com",
+            "customer_service_id": "https://s0.awsstatic.com",
+            "performance": {
+                "avg_rt": 0,
+                "err_r": 0,
+                "hit_r": 0
+            },
+            "provider": "https://aws.amazon.com"
+        },
+        {
+            "customer": "https://sb.scorecardresearch.com",
+            "customer_service_id": "https://sb.scorecardresearch.com",
+            "performance": {
+                "avg_rt": 0,
+                "err_r": 0,
+                "hit_r": 0
+            },
+            "provider": "https://stackoverflow.com"
+        },
+        {
+            "customer": "https://sb.scorecardresearch.com",
+            "customer_service_id": "https://sb.scorecardresearch.com",
+            "performance": {
+                "avg_rt": 0,
+                "err_r": 0,
+                "hit_r": 0
+            },
+            "provider": "https://www.cyberpunk.net"
+        },
+        {
+            "customer": "https://sonygs.112.2o7.net",
+            "customer_service_id": "https://sonygs.112.2o7.net",
+            "performance": {
+                "avg_rt": 0,
+                "err_r": 0,
+                "hit_r": 0
+            },
+            "provider": "https://www.sony.com"
+        },
+        {
+            "customer": "https://sonygs.112.2o7.net",
+            "customer_service_id": "https://sonygs.112.2o7.net",
+            "performance": {
+                "avg_rt": 0,
+                "err_r": 0,
+                "hit_r": 0
+            },
+            "provider": "https://www.sony.net"
+        },
+        {
+            "customer": "https://square.sony.com",
+            "customer_service_id": "https://square.sony.com",
+            "performance": {
+                "avg_rt": 0,
+                "err_r": 0,
+                "hit_r": 0
+            },
+            "provider": "https://www.sony.net"
+        },
+        {
+            "customer": "https://sstats.adobe.com",
+            "customer_service_id": "https://sstats.adobe.com",
+            "performance": {
+                "avg_rt": 0,
+                "err_r": 0,
+                "hit_r": 0
+            },
+            "provider": "https://www.behance.net"
+        },
+        {
+            "customer": "https://strapi.reddit.com",
+            "customer_service_id": "https://strapi.reddit.com",
+            "performance": {
+                "avg_rt": 0,
+                "err_r": 0,
+                "hit_r": 0
+            },
+            "provider": "https://www.reddit.com"
+        },
+        {
+            "customer": "https://tag.1rx.io",
+            "customer_service_id": "https://tag.1rx.io",
+            "performance": {
+                "avg_rt": 0,
+                "err_r": 0,
+                "hit_r": 0
+            },
+            "provider": "https://www.webdesignerdepot.com"
+        },
+        {
+            "customer": "https://telemetry.api.wmcdp.io",
+            "customer_service_id": "https://telemetry.api.wmcdp.io",
+            "performance": {
+                "avg_rt": 0,
+                "err_r": 0,
+                "hit_r": 0
+            },
+            "provider": "https://www.hbo.com"
+        },
+        {
+            "customer": "https://tr.api.mp.marsflag.com",
+            "customer_service_id": "https://tr.api.mp.marsflag.com",
+            "performance": {
+                "avg_rt": 0,
+                "err_r": 0,
+                "hit_r": 0
+            },
+            "provider": "https://www.sony.com"
+        },
+        {
+            "customer": "https://tr.api.mp.marsflag.com",
+            "customer_service_id": "https://tr.api.mp.marsflag.com",
+            "performance": {
+                "avg_rt": 0,
+                "err_r": 0,
+                "hit_r": 0
+            },
+            "provider": "https://www.sony.net"
+        },
+        {
+            "customer": "https://unpkg.com",
+            "customer_service_id": "https://unpkg.com",
+            "performance": {
+                "avg_rt": 0,
+                "err_r": 0,
+                "hit_r": 0
+            },
+            "provider": "https://coderbyte.com"
+        },
+        {
+            "customer": "https://watch.redd.it",
+            "customer_service_id": "https://watch.redd.it",
+            "performance": {
+                "avg_rt": 0,
+                "err_r": 0,
+                "hit_r": 0
+            },
+            "provider": "https://strapi.reddit.com"
+        },
+        {
+            "customer": "https://www.booking.com",
+            "customer_service_id": "https://www.booking.com",
+            "performance": {
+                "avg_rt": 0,
+                "err_r": 0,
+                "hit_r": 0
+            },
+            "provider": "https://booking.kayak.com"
+        },
+        {
+            "customer": "https://www.sony.ua",
+            "customer_service_id": "https://www.sony.ua",
+            "performance": {
+                "avg_rt": 0,
+                "err_r": 0,
+                "hit_r": 0
+            },
+            "provider": "https://siteintercept.qualtrics.com"
+        }
+    ],
+    "services": [
+        {
+            "hostname": "https://booking.kayak.com",
+            "image": null,
+            "label": "https://booking.kayak.com",
+            "performance": {
+                "avg_rt": 200,
+                "err_r": 0,
+                "hit_r": 1.2866514405758436
+            },
+            "serviceId": "https://booking.kayak.com",
+            "targetKey": "TARGET_BOOKING_KAYAK_COM",
+            "type": "PROVIDER"
+        },
+        {
+            "hostname": "https://fls-na.amazon.com",
+            "image": null,
+            "label": "https://fls-na.amazon.com",
+            "performance": {
+                "avg_rt": 244,
+                "err_r": 0,
+                "hit_r": 1.1273957125353455
+            },
+            "serviceId": "https://fls-na.amazon.com",
+            "targetKey": "TARGET_FLS_NA_AMAZON_COM",
+            "type": "PROVIDER"
+        },
+        {
+            "hostname": "https://www.behance.net",
+            "image": null,
+            "label": "https://www.behance.net",
+            "performance": {
+                "avg_rt": 98,
+                "err_r": 0,
+                "hit_r": 0.36430414250398485
+            },
+            "serviceId": "https://www.behance.net",
+            "targetKey": "TARGET_WWW_BEHANCE_NET",
+            "type": "PROVIDER"
+        },
+        {
+            "hostname": "https://e.metarouter.io",
+            "image": null,
+            "label": "https://e.metarouter.io",
+            "performance": {
+                "avg_rt": 104,
+                "err_r": 0,
+                "hit_r": 0.3229974167281868
+            },
+            "serviceId": "https://e.metarouter.io",
+            "targetKey": "TARGET_E_METAROUTER_IO",
+            "type": "PROVIDER"
+        },
+        {
+            "hostname": "https://medium.com",
+            "image": null,
+            "label": "https://medium.com",
+            "performance": {
+                "avg_rt": 116,
+                "err_r": 0,
+                "hit_r": 0.2931561856648665
+            },
+            "serviceId": "https://medium.com",
+            "targetKey": "TARGET_MEDIUM_COM",
+            "type": "PROVIDER"
+        },
+        {
+            "hostname": "https://s0.awsstatic.com",
+            "image": null,
+            "label": "https://s0.awsstatic.com",
+            "performance": {
+                "avg_rt": 52,
+                "err_r": 0,
+                "hit_r": 0.20498103864279008
+            },
+            "serviceId": "https://s0.awsstatic.com",
+            "targetKey": "TARGET_S0_AWSSTATIC_COM",
+            "type": "PROVIDER"
+        },
+        {
+            "hostname": "https://www.youtube.com",
+            "image": null,
+            "label": "https://www.youtube.com",
+            "performance": {
+                "avg_rt": 17,
+                "err_r": 0,
+                "hit_r": 0.18454873282648837
+            },
+            "serviceId": "https://www.youtube.com",
+            "targetKey": "TARGET_WWW_YOUTUBE_COM",
+            "type": "PROVIDER"
+        },
+        {
+            "hostname": "https://lightstep.medium.systems",
+            "image": null,
+            "label": "https://lightstep.medium.systems",
+            "performance": {
+                "avg_rt": 64,
+                "err_r": 0,
+                "hit_r": 0.17146871237001626
+            },
+            "serviceId": "https://lightstep.medium.systems",
+            "targetKey": "TARGET_LIGHTSTEP_MEDIUM_SYSTEMS",
+            "type": "PROVIDER"
+        },
+        {
+            "hostname": "https://aws.amazon.com",
+            "image": null,
+            "label": "https://aws.amazon.com",
+            "performance": {
+                "avg_rt": 25,
+                "err_r": 0,
+                "hit_r": 0.15373577898209256
+            },
+            "serviceId": "https://aws.amazon.com",
+            "targetKey": "TARGET_AWS_AMAZON_COM",
+            "type": "PROVIDER"
+        },
+        {
+            "hostname": "https://www.booking.com",
+            "image": null,
+            "label": "https://www.booking.com",
+            "performance": {
+                "avg_rt": 37,
+                "err_r": 0,
+                "hit_r": 0.14918693045463569
+            },
+            "serviceId": "https://www.booking.com",
+            "targetKey": "TARGET_WWW_BOOKING_COM",
+            "type": "PROVIDER"
+        },
+        {
+            "hostname": "https://jeff-jackson.medium.com",
+            "image": null,
+            "label": "https://jeff-jackson.medium.com",
+            "performance": {
+                "avg_rt": 51,
+                "err_r": 0,
+                "hit_r": 0.12458827459162847
+            },
+            "serviceId": "https://jeff-jackson.medium.com",
+            "targetKey": "TARGET_JEFF_JACKSON_MEDIUM_COM",
+            "type": "PROVIDER"
+        },
+        {
+            "hostname": "https://www.netflix.com",
+            "image": null,
+            "label": "https://www.netflix.com",
+            "performance": {
+                "avg_rt": 13,
+                "err_r": 0,
+                "hit_r": 0.09746734842294122
+            },
+            "serviceId": "https://www.netflix.com",
+            "targetKey": "TARGET_WWW_NETFLIX_COM",
+            "type": "PROVIDER"
+        },
+        {
+            "hostname": "https://en.wikipedia.org",
+            "image": null,
+            "label": "https://en.wikipedia.org",
+            "performance": {
+                "avg_rt": 10,
+                "err_r": 0,
+                "hit_r": 0.09332973394933093
+            },
+            "serviceId": "https://en.wikipedia.org",
+            "targetKey": "TARGET_EN_WIKIPEDIA_ORG",
+            "type": "PROVIDER"
+        },
+        {
+            "hostname": "https://www.hbo.com",
+            "image": null,
+            "label": "https://www.hbo.com",
+            "performance": {
+                "avg_rt": 36,
+                "err_r": 0,
+                "hit_r": 0.08883440378338339
+            },
+            "serviceId": "https://www.hbo.com",
+            "targetKey": "TARGET_WWW_HBO_COM",
+            "type": "PROVIDER"
+        },
+        {
+            "hostname": "https://discord.com",
+            "image": null,
+            "label": "https://discord.com",
+            "performance": {
+                "avg_rt": 15,
+                "err_r": 0,
+                "hit_r": 0.08662790070258211
+            },
+            "serviceId": "https://discord.com",
+            "targetKey": "TARGET_DISCORD_COM",
+            "type": "PROVIDER"
+        },
+        {
+            "hostname": "https://telemetry.api.wmcdp.io",
+            "image": null,
+            "label": "https://telemetry.api.wmcdp.io",
+            "performance": {
+                "avg_rt": 23,
+                "err_r": 0,
+                "hit_r": 0.08439268359421423
+            },
+            "serviceId": "https://telemetry.api.wmcdp.io",
+            "targetKey": "TARGET_TELEMETRY_API_WMCDP_IO",
+            "type": "PROVIDER"
+        },
+        {
+            "hostname": "https://dribbble.com",
+            "image": null,
+            "label": "https://dribbble.com",
+            "performance": {
+                "avg_rt": 17,
+                "err_r": 0,
+                "hit_r": 0.07895492408911234
+            },
+            "serviceId": "https://dribbble.com",
+            "targetKey": "TARGET_DRIBBBLE_COM",
+            "type": "PROVIDER"
+        },
+        {
+            "hostname": "https://www.reddit.com",
+            "image": null,
+            "label": "https://www.reddit.com",
+            "performance": {
+                "avg_rt": 18,
+                "err_r": 0,
+                "hit_r": 0.06944468555434812
+            },
+            "serviceId": "https://www.reddit.com",
+            "targetKey": "TARGET_WWW_REDDIT_COM",
+            "type": "PROVIDER"
+        },
+        {
+            "hostname": "https://www.sony.net",
+            "image": null,
+            "label": "https://www.sony.net",
+            "performance": {
+                "avg_rt": 11,
+                "err_r": 0,
+                "hit_r": 0.06151827088556114
+            },
+            "serviceId": "https://www.sony.net",
+            "targetKey": "TARGET_WWW_SONY_NET",
+            "type": "PROVIDER"
+        },
+        {
+            "hostname": "https://reactjs.org",
+            "image": null,
+            "label": "https://reactjs.org",
+            "performance": {
+                "avg_rt": 7,
+                "err_r": 0,
+                "hit_r": 0.05997990672180998
+            },
+            "serviceId": "https://reactjs.org",
+            "targetKey": "TARGET_REACTJS_ORG",
+            "type": "PROVIDER"
+        },
+        {
+            "hostname": "https://auth.services.adobe.com",
+            "image": null,
+            "label": "https://auth.services.adobe.com",
+            "performance": {
+                "avg_rt": 10,
+                "err_r": 0,
+                "hit_r": 0.05947822734758936
+            },
+            "serviceId": "https://auth.services.adobe.com",
+            "targetKey": "TARGET_AUTH_SERVICES_ADOBE_COM",
+            "type": "PROVIDER"
+        },
+        {
+            "hostname": "https://browser-http-intake.logs.datadoghq.com",
+            "image": null,
+            "label": "https://browser-http-intake.logs.datadoghq.com",
+            "performance": {
+                "avg_rt": 22,
+                "err_r": 0,
+                "hit_r": 0.04978123907516601
+            },
+            "serviceId": "https://browser-http-intake.logs.datadoghq.com",
+            "targetKey": "TARGET_BROWSER_HTTP_INTAKE_LOGS_DATADOGHQ_COM",
+            "type": "PROVIDER"
+        },
+        {
+            "hostname": "https://help.netflix.com",
+            "image": null,
+            "label": "https://help.netflix.com",
+            "performance": {
+                "avg_rt": 6,
+                "err_r": 0,
+                "hit_r": 0.04850817159751362
+            },
+            "serviceId": "https://help.netflix.com",
+            "targetKey": "TARGET_HELP_NETFLIX_COM",
+            "type": "PROVIDER"
+        },
+        {
+            "hostname": "https://stackoverflow.com",
+            "image": null,
+            "label": "https://stackoverflow.com",
+            "performance": {
+                "avg_rt": 6,
+                "err_r": 0,
+                "hit_r": 0.04446222931331954
+            },
+            "serviceId": "https://stackoverflow.com",
+            "targetKey": "TARGET_STACKOVERFLOW_COM",
+            "type": "PROVIDER"
+        },
+        {
+            "hostname": "https://sb.scorecardresearch.com",
+            "image": null,
+            "label": "https://sb.scorecardresearch.com",
+            "performance": {
+                "avg_rt": 2,
+                "err_r": 0,
+                "hit_r": 0.03759356927478722
+            },
+            "serviceId": "https://sb.scorecardresearch.com",
+            "targetKey": "TARGET_SB_SCORECARDRESEARCH_COM",
+            "type": "PROVIDER"
+        },
+        {
+            "hostname": "https://gql.reddit.com",
+            "image": null,
+            "label": "https://gql.reddit.com",
+            "performance": {
+                "avg_rt": 31,
+                "err_r": 0,
+                "hit_r": 0.036458459916032755
+            },
+            "serviceId": "https://gql.reddit.com",
+            "targetKey": "TARGET_GQL_REDDIT_COM",
+            "type": "PROVIDER"
+        },
+        {
+            "hostname": "https://www.sony.com",
+            "image": null,
+            "label": "https://www.sony.com",
+            "performance": {
+                "avg_rt": 9,
+                "err_r": 0,
+                "hit_r": 0.03075913544278057
+            },
+            "serviceId": "https://www.sony.com",
+            "targetKey": "TARGET_WWW_SONY_COM",
+            "type": "PROVIDER"
+        },
+        {
+            "hostname": "https://www.sony.ua",
+            "image": null,
+            "label": "https://www.sony.ua",
+            "performance": {
+                "avg_rt": 4,
+                "err_r": 0,
+                "hit_r": 0.03075913544278057
+            },
+            "serviceId": "https://www.sony.ua",
+            "targetKey": "TARGET_WWW_SONY_UA",
+            "type": "PROVIDER"
+        },
+        {
+            "hostname": "https://adobeid-na1.services.adobe.com",
+            "image": null,
+            "label": "https://adobeid-na1.services.adobe.com",
+            "performance": {
+                "avg_rt": 11,
+                "err_r": 0.01486955683689734,
+                "hit_r": 0.02973911367379468
+            },
+            "serviceId": "https://adobeid-na1.services.adobe.com",
+            "targetKey": "TARGET_ADOBEID_NA1_SERVICES_ADOBE_COM",
+            "type": "PROVIDER"
+        },
+        {
+            "hostname": "https://gateway.reddit.com",
+            "image": null,
+            "label": "https://gateway.reddit.com",
+            "performance": {
+                "avg_rt": 21,
+                "err_r": 0,
+                "hit_r": 0.02604175708288054
+            },
+            "serviceId": "https://gateway.reddit.com",
+            "targetKey": "TARGET_GATEWAY_REDDIT_COM",
+            "type": "PROVIDER"
+        },
+        {
+            "hostname": "https://strapi.reddit.com",
+            "image": null,
+            "label": "https://strapi.reddit.com",
+            "performance": {
+                "avg_rt": 9,
+                "err_r": 0,
+                "hit_r": 0.022569522805163136
+            },
+            "serviceId": "https://strapi.reddit.com",
+            "targetKey": "TARGET_STRAPI_REDDIT_COM",
+            "type": "PROVIDER"
+        },
+        {
+            "hostname": "https://proxy-v4.cms.hbo.com",
+            "image": null,
+            "label": "https://proxy-v4.cms.hbo.com",
+            "performance": {
+                "avg_rt": 5,
+                "err_r": 0,
+                "hit_r": 0.022208600945845848
+            },
+            "serviceId": "https://proxy-v4.cms.hbo.com",
+            "targetKey": "TARGET_PROXY_V4_CMS_HBO_COM",
+            "type": "PROVIDER"
+        },
+        {
+            "hostname": "https://www.cyberpunk.net",
+            "image": null,
+            "label": "https://www.cyberpunk.net",
+            "performance": {
+                "avg_rt": 5,
+                "err_r": 0,
+                "hit_r": 0.021656975175645528
+            },
+            "serviceId": "https://www.cyberpunk.net",
+            "targetKey": "TARGET_WWW_CYBERPUNK_NET",
+            "type": "PROVIDER"
+        },
+        {
+            "hostname": "https://booking.com",
+            "image": null,
+            "label": "https://booking.com",
+            "performance": {
+                "avg_rt": 2,
+                "err_r": 0,
+                "hit_r": 0.021312418636376528
+            },
+            "serviceId": "https://booking.com",
+            "targetKey": "TARGET_BOOKING_COM",
+            "type": "PROVIDER"
+        },
+        {
+            "hostname": "https://tag.1rx.io",
+            "image": null,
+            "label": "https://tag.1rx.io",
+            "performance": {
+                "avg_rt": 2,
+                "err_r": 0,
+                "hit_r": 0.018893894725891144
+            },
+            "serviceId": "https://tag.1rx.io",
+            "targetKey": "TARGET_TAG_1RX_IO",
+            "type": "PROVIDER"
+        },
+        {
+            "hostname": "https://api.hubspot.com",
+            "image": null,
+            "label": "https://api.hubspot.com",
+            "performance": {
+                "avg_rt": 5,
+                "err_r": 0,
+                "hit_r": 0.015573534323953558
+            },
+            "serviceId": "https://api.hubspot.com",
+            "targetKey": "TARGET_API_HUBSPOT_COM",
+            "type": "PROVIDER"
+        },
+        {
+            "hostname": "https://coderbyte.com",
+            "image": null,
+            "label": "https://coderbyte.com",
+            "performance": {
+                "avg_rt": 7,
+                "err_r": 0,
+                "hit_r": 0.015573534323953558
+            },
+            "serviceId": "https://coderbyte.com",
+            "targetKey": "TARGET_CODERBYTE_COM",
+            "type": "PROVIDER"
+        },
+        {
+            "hostname": "https://csp.medium.com",
+            "image": null,
+            "label": "https://csp.medium.com",
+            "performance": {
+                "avg_rt": 3,
+                "err_r": 0,
+                "hit_r": 0.015573534323953558
+            },
+            "serviceId": "https://csp.medium.com",
+            "targetKey": "TARGET_CSP_MEDIUM_COM",
+            "type": "PROVIDER"
+        },
+        {
+            "hostname": "https://forms.hubspot.com",
+            "image": null,
+            "label": "https://forms.hubspot.com",
+            "performance": {
+                "avg_rt": 3,
+                "err_r": 0,
+                "hit_r": 0.015573534323953558
+            },
+            "serviceId": "https://forms.hubspot.com",
+            "targetKey": "TARGET_FORMS_HUBSPOT_COM",
+            "type": "PROVIDER"
+        },
+        {
+            "hostname": "https://unpkg.com",
+            "image": null,
+            "label": "https://unpkg.com",
+            "performance": {
+                "avg_rt": 0,
+                "err_r": 0,
+                "hit_r": 0.015573534323953558
+            },
+            "serviceId": "https://unpkg.com",
+            "targetKey": "TARGET_UNPKG_COM",
+            "type": "PROVIDER"
+        },
+        {
+            "hostname": "https://sstats.adobe.com",
+            "image": null,
+            "label": "https://sstats.adobe.com",
+            "performance": {
+                "avg_rt": 3,
+                "err_r": 0,
+                "hit_r": 0.01486955683689734
+            },
+            "serviceId": "https://sstats.adobe.com",
+            "targetKey": "TARGET_SSTATS_ADOBE_COM",
+            "type": "PROVIDER"
+        },
+        {
+            "hostname": "https://www.googleadservices.com",
+            "image": null,
+            "label": "https://www.googleadservices.com",
+            "performance": {
+                "avg_rt": 1,
+                "err_r": 0,
+                "hit_r": 0.014844503802845641
+            },
+            "serviceId": "https://www.googleadservices.com",
+            "targetKey": "TARGET_WWW_GOOGLEADSERVICES_COM",
+            "type": "PROVIDER"
+        },
+        {
+            "hostname": "https://clickserve.dartsearch.net",
+            "image": null,
+            "label": "https://clickserve.dartsearch.net",
+            "performance": {
+                "avg_rt": 1,
+                "err_r": 0,
+                "hit_r": 0.01357367789249394
+            },
+            "serviceId": "https://clickserve.dartsearch.net",
+            "targetKey": "TARGET_CLICKSERVE_DARTSEARCH_NET",
+            "type": "PROVIDER"
+        },
+        {
+            "hostname": "https://ds-aksb-a.akamaihd.net",
+            "image": null,
+            "label": "https://ds-aksb-a.akamaihd.net",
+            "performance": {
+                "avg_rt": 0,
+                "err_r": 0,
+                "hit_r": 0.010253045147593523
+            },
+            "serviceId": "https://ds-aksb-a.akamaihd.net",
+            "targetKey": "TARGET_DS_AKSB_A_AKAMAIHD_NET",
+            "type": "PROVIDER"
+        },
+        {
+            "hostname": "https://siteintercept.qualtrics.com",
+            "image": null,
+            "label": "https://siteintercept.qualtrics.com",
+            "performance": {
+                "avg_rt": 1,
+                "err_r": 0,
+                "hit_r": 0.010253045147593523
+            },
+            "serviceId": "https://siteintercept.qualtrics.com",
+            "targetKey": "TARGET_SITEINTERCEPT_QUALTRICS_COM",
+            "type": "PROVIDER"
+        },
+        {
+            "hostname": "https://sonygs.112.2o7.net",
+            "image": null,
+            "label": "https://sonygs.112.2o7.net",
+            "performance": {
+                "avg_rt": 3,
+                "err_r": 0,
+                "hit_r": 0.010253045147593523
+            },
+            "serviceId": "https://sonygs.112.2o7.net",
+            "targetKey": "TARGET_SONYGS_112_2O7_NET",
+            "type": "PROVIDER"
+        },
+        {
+            "hostname": "https://square.sony.com",
+            "image": null,
+            "label": "https://square.sony.com",
+            "performance": {
+                "avg_rt": 2,
+                "err_r": 0,
+                "hit_r": 0.010253045147593523
+            },
+            "serviceId": "https://square.sony.com",
+            "targetKey": "TARGET_SQUARE_SONY_COM",
+            "type": "PROVIDER"
+        },
+        {
+            "hostname": "https://tr.api.mp.marsflag.com",
+            "image": null,
+            "label": "https://tr.api.mp.marsflag.com",
+            "performance": {
+                "avg_rt": 11,
+                "err_r": 0,
+                "hit_r": 0.010253045147593523
+            },
+            "serviceId": "https://tr.api.mp.marsflag.com",
+            "targetKey": "TARGET_TR_API_MP_MARSFLAG_COM",
+            "type": "PROVIDER"
+        },
+        {
+            "hostname": "https://r1---sn-jvgcpo503g-3c2e.googlevideo.com",
+            "image": null,
+            "label": "https://r1---sn-jvgcpo503g-3c2e.googlevideo.com",
+            "performance": {
+                "avg_rt": 0,
+                "err_r": 0,
+                "hit_r": 0.008641809937397799
+            },
+            "serviceId": "https://r1---sn-jvgcpo503g-3c2e.googlevideo.com",
+            "targetKey": "TARGET_R1___SN_JVGCPO503G_3C2E_GOOGLEVIDEO_COM",
+            "type": "PROVIDER"
+        },
+        {
+            "hostname": "https://r2---sn-jvgcpo503g-3c2e.googlevideo.com",
+            "image": null,
+            "label": "https://r2---sn-jvgcpo503g-3c2e.googlevideo.com",
+            "performance": {
+                "avg_rt": 0,
+                "err_r": 0,
+                "hit_r": 0.008641809937397799
+            },
+            "serviceId": "https://r2---sn-jvgcpo503g-3c2e.googlevideo.com",
+            "targetKey": "TARGET_R2___SN_JVGCPO503G_3C2E_GOOGLEVIDEO_COM",
+            "type": "PROVIDER"
+        },
+        {
+            "hostname": "https://ims-na1.adobelogin.com",
+            "image": null,
+            "label": "https://ims-na1.adobelogin.com",
+            "performance": {
+                "avg_rt": 3,
+                "err_r": 0,
+                "hit_r": 0.00743477841844867
+            },
+            "serviceId": "https://ims-na1.adobelogin.com",
+            "targetKey": "TARGET_IMS_NA1_ADOBELOGIN_COM",
+            "type": "PROVIDER"
+        },
+        {
+            "hostname": "https://watch.redd.it",
+            "image": null,
+            "label": "https://watch.redd.it",
+            "performance": {
+                "avg_rt": 2,
+                "err_r": 0,
+                "hit_r": 0.006944468555434811
+            },
+            "serviceId": "https://watch.redd.it",
+            "targetKey": "TARGET_WATCH_REDD_IT",
+            "type": "PROVIDER"
+        },
+        {
+            "hostname": "https://www.webdesignerdepot.com",
+            "image": null,
+            "label": "https://www.webdesignerdepot.com",
+            "performance": {
+                "avg_rt": 4,
+                "err_r": 0,
+                "hit_r": 0.004860692552571283
+            },
+            "serviceId": "https://www.webdesignerdepot.com",
+            "targetKey": "TARGET_WWW_WEBDESIGNERDEPOT_COM",
+            "type": "PROVIDER"
+        },
+        {
+            "hostname": "Web Browser",
+            "image": "https://www.google.com/chrome/static/images/favicons/favicon-32x32.png",
+            "label": "Web Browser",
+            "serviceId": null,
+            "targetKey": "TARGET_NULL",
+            "type": "CUSTOMER"
+        },
+        {
+            "hostname": "Ignored",
+            "image": null,
+            "targets": [
+                "http://geocust.hbonow.com",
+                "http://www.google.com",
+                "https://10248166.fls.doubleclick.net",
+                "https://4228414.fls.doubleclick.net",
+                "https://4868419.fls.doubleclick.net",
+                "https://8369998.fls.doubleclick.net",
+                "https://8955038.fls.doubleclick.net",
+                "https://8955904.fls.doubleclick.net",
+                "https://898efa94a5e5850098182541dbfc6266.safeframe.googlesyndication.com",
+                "https://9347217.fls.doubleclick.net",
+                "https://9387718.fls.doubleclick.net",
+                "https://9389755.fls.doubleclick.net",
+                "https://9418370.fls.doubleclick.net",
+                "https://9448859.fls.doubleclick.net",
+                "https://9506364.fls.doubleclick.net",
+                "https://964b1dc1a7f3e51cf85d4e39712b64bb.safeframe.googlesyndication.com",
+                "https://aax-eu.amazon-adsystem.com",
+                "https://accounts.google.com",
+                "https://ad.doubleclick.net",
+                "https://adamsilver.io",
+                "https://adserver-us.adtech.advertising.com",
+                "https://adservice.google.com",
+                "https://adservice.google.com.ua",
+                "https://aidata-sync.rutarget.ru",
+                "https://amazonwebservices.d2.sc.omtrdc.net",
+                "https://amazonwebservicesinc.tt.omtrdc.net",
+                "https://ams.creativecdn.com",
+                "https://api.amplitude.com",
+                "https://api.hubapi.com",
+                "https://api2.branch.io",
+                "https://assets.tumblr.com",
+                "https://bat.bing.com",
+                "https://bs.nakanohito.jp",
+                "https://btlr.sharethrough.com",
+                "https://c6c3f4258e1253e2956294bae025062c.safeframe.googlesyndication.com",
+                "https://cats.smashing.services",
+                "https://cb2d1facba2e765d9f195dac049ce240.safeframe.googlesyndication.com",
+                "https://cloud.google.com",
+                "https://cm.everesttech.net",
+                "https://cm.g.doubleclick.net",
+                "https://collector-pxikkul2rm.perimeterx.net",
+                "https://cookiex.ngd.yahoo.com",
+                "https://creativecdn.com",
+                "https://ct.pinterest.com",
+                "https://data.smashing.services",
+                "https://dc.ads.linkedin.com",
+                "https://developers.google.com",
+                "https://distillery.wistia.com",
+                "https://dpm.demdex.net",
+                "https://e934f587e2a0919c0e36a9de87971907.safeframe.googlesyndication.com",
+                "https://en.cdprojektred.com",
+                "https://exchange.buzzoola.com",
+                "https://geo.ngtv.io",
+                "https://googleads.g.doubleclick.net",
+                "https://hbopenbid.pubmatic.com",
+                "https://htlb.casalemedia.com",
+                "https://i.ytimg.com",
+                "https://logx.optimizely.com",
+                "https://maps.google.com",
+                "https://ogs.google.com",
+                "https://pagead2.googlesyndication.com",
+                "https://pixel.mediaiqdigital.com",
+                "https://play.google.com",
+                "https://play.hbonow.com",
+                "https://playwire-d.openx.net",
+                "https://privacyportal.onetrust.com",
+                "https://px.adhigh.net",
+                "https://px.ads.linkedin.com",
+                "https://reactnative.dev",
+                "https://recommender.scarabresearch.com",
+                "https://scone-pa.clients6.google.com",
+                "https://script-api.impactproduct.com",
+                "https://secure.adnxs.com",
+                "https://securepubads.g.doubleclick.net",
+                "https://smashingconf.com",
+                "https://sonycardmarketingandservices.sc.omtrdc.net",
+                "https://ssl.gstatic.com",
+                "https://stats.g.doubleclick.net",
+                "https://syndication.twitter.com",
+                "https://tlx.3lift.com",
+                "https://tpc.googlesyndication.com",
+                "https://twitter.com",
+                "https://v.redd.it",
+                "https://vc.hotjar.io",
+                "https://wordpress.org",
+                "https://www.facebook.com",
+                "https://www.google-analytics.com",
+                "https://www.google.com",
+                "https://www.gstatic.com",
+                "https://www.linkedin.com",
+                "https://www.smashingmagazine.com",
+                "https://www.tumblr.com",
+                "https://www.wikipedia.org",
+                "https://x01.aidata.io"
+            ]
+        }
+    ],
+    "kafkaContracts": [],
+    "outgoingContracts": [],
+    "outgoingNodes": []
+}
